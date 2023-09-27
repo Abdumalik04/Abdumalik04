@@ -3,7 +3,7 @@
 
 ### I'm a backend Java developer from Kyrgyzstan
 -  💪 I like to write code
-- 🏐 I like to play football
+- 🏐 I like to play volleyball
 - ⚡ I am constantly learning new things
 -  👌 I’m looking for help with java developer
 ### :toolbox: Languages and Tools:
